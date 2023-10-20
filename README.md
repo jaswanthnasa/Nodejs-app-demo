@@ -7,7 +7,7 @@ This repository contains a basic Node.js application that has been Dockerized fo
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/nodejs-docker-test.git
+git clone git@github.com:srebreni3/simple-nodejs-app.git
 ```   
 #
 Go to you applicaton
