@@ -17,7 +17,9 @@ cd simple-nodejs-app
 ```
 #
 
-**Check out this article for next steps: https://srebreni3.medium.com/how-to-deploy-docker-image-to-ecr-and-run-it-on-ec2-49523d39cc57**
+**Check out this article if you want to use this app: https://srebreni3.medium.com/how-to-deploy-docker-image-to-ecr-and-run-it-on-ec2-49523d39cc57**
+
+**Check out this article if you want to use this app: https://medium.com/@srebreni3/how-to-deploy-a-docker-image-to-aws-and-run-it-on-fargate-13f76b0277b3**
 
 
 
