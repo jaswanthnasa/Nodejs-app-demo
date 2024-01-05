@@ -3,7 +3,7 @@ const http = require('http');
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/html'); //
-  res.write('<h2>Hello, friend!</h2>\n'); 
+  res.write('<h2>HELLO friend!</h2>\n'); 
   res.end();
 });
 
